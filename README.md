@@ -1,10 +1,10 @@
 # Maps With Friends
 
-Maps with friends is a playground for live-collaboration on maps unsing websockets and mapbox gl.
+Maps with friends is a playground for live-collaboration on maps using websockets and mapbox gl.
 
 # Develop
 
-It' an angular application.
+It's an angular application.
 
 - `npm install`
 - `npm run serve`
